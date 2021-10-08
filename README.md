@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Omega from India
 - 👀 I’m interested in ... Math, Physics, Coding(Python)
-- 🌱 I’m currently learning ... Linear Algebra
+- 🌱 I’m currently learning ... Number Theory
 - 💞️ I’m looking to collaborate on ... nothing much lol
 - 📫 How to reach me ... Discord(Om3ga#2054)
 
