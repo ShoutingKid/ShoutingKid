@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Om3ga from India Umm sorry but don't want to disclose it :D</h1>
+<h1 align="center">Hi 👋, I'm Om3ga from India. (sorry but don't want to disclose my actual name :D)</h1>
 <h3 align="center">Passionate Physics, Math, Coding Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=om3ga&label=Profile%20views&color=0e75b6&style=flat" alt="om3ga" /> </p>
